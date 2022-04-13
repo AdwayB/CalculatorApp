@@ -1,2 +1,2 @@
 # Calculator_App
-Very minimal calculator web app.
+A very minimal calculator web app.
