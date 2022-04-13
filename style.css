@@ -19,8 +19,8 @@ body{
     text-align: center;
     padding-bottom: 15px;
     color: white;
-    font-family: "Roboto", sans-serif;
-    letter-spacing: 1px;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 2px;
 }
 
 .container{
@@ -51,7 +51,7 @@ body{
     height: 65px;
     color: white;
     width: calc(100%/4 - 5px);
-    background: rgba(255,255,255,0.04);
+    background: transparent;
     border: 1px solid rgba(255,255,255,0.02);
     border-radius: 12px;
     margin-top: 10px;
