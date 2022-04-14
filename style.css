@@ -40,7 +40,7 @@ body{
     height: 50px;
     color: white;
     background: transparent;
-    border: 2px solid rgba(255,255,255,0.1);
+    border: 2px solid rgba(255, 255, 255, 0.1);
 }
 
 .container input[type="button"]{
