@@ -5,7 +5,7 @@ inputs = document.querySelectorAll(".buttons input");
 inputs.forEach(inp => {
     inp.addEventListener("click", (e) => {
         text = e.target.value; 
-        if(text == "AC"){
+        if(text == "CLR"){
             answer.value = '';
         }         
         else if(text == "="){
